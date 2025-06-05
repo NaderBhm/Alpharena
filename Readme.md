@@ -36,10 +36,15 @@ After each round, players can choose to continue or exit the game.
 ## 📁 Project Structure
 
 📦 Alpharena/
+
 ├── Client.java // Player-side logic, UI, and interaction
+
 ├── Server.java // Game coordinator, handles both players
+
 ├── GameLogic.java // Core word comparison and feedback mechanics
+
 ├── 5letter.txt // Dictionary of valid 5-letter words
+
 
 ---
 
